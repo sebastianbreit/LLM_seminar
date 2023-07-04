@@ -1,0 +1,16 @@
+inf.paintings.think	Sophia is an artist from France. Sophia's art teacher, Marie, thinks that Sophia created ___ paintings last monthXXX 18 YYYY 26
+inf.paintings.announce	Sophia is an artist from France. Sophia's art teacher, Marie, announced to me that Sophia created ___ paintings last monthXXX 18 YYYY 26
+
+inf.books.think	Daniel is a man from the UK. Daniel's colleague, Sarah, thinks that Daniel read ___ books last yearXXX 37 YYYY 52
+inf.books.announce	Daniel is a man from the UK. Daniel's colleague, Sarah, announced to me that Daniel read ___ books last yearXXX 37 YYYY 52
+
+inf.languages.think	Isabella is a woman from Spain. Isabella's language partner, Carlos, thinks that Isabella can speak __ languages fluentlyXXX 3 YYYY 6
+inf.languages.announce	Isabella is a woman from Spain. Isabella's language partner, Carlos, announced to me that Isabella can speak __ languages fluentlyXXX 3 YYYY 6
+
+inf.goals.think	Matthew is a man from Canada. Matthew's coach, Amanda, thinks that Matthew scored ___ goals in the last soccer seasonXXX 12 YYYY 18
+inf.goals.announce	Matthew is a man from Canada. Matthew's coach, Amanda, announced to me that Matthew scored ___ goals in the last soccer seasonXXX 12 YYYY 18
+
+inf.trips.think	Olivia is a woman from Australia. Olivia's travel companion, James, thinks that Olivia went on ___ trips last yearXXX 5 YYYY 9
+inf.trips.announce	Olivia is a woman from Australia. Olivia's travel companion, James, announced to me that Olivia went on ___ trips last yearXXX 5 YYYY 9
+
+
