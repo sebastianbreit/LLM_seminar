@@ -1,0 +1,105 @@
+inf.burger.everyone	Joseph is a man from the US. Joseph has a girlfriend, Sue. Yesterday at the local bar, Sue stood up and said to everyone that Joseph ate ___ burgers last monthXXX 6 XXX 9
+inf.burger.me	Joseph is a man from the US. Joseph has a girlfriend, Sue. Yesterday at the local bar, Sue said to me that Joseph ate ___ burgers last monthXXX 6 XXX 9
+
+inf.movie.everyone	Nick is a man from the US. Nick went to school with Stephanie. Yesterday at my party, Stephanie stood up and said to everyonethat Nick saw __ movies last yearXXX 19 XXX 31
+inf.movie.me	Nick is a man from the US. Nick went to school with Stephanie. Yesterday at my party, Stephanie said to me that Nick saw __ movies last yearXXX 19 XXX 31
+
+inf.shoes.everyone	Melanie is a woman from the US. Melanie has a colleague, Amber. This morning, at the subway, Amber stood up and said to everyone that Melanie owns ___ pairs of shoesXXX 12 XXX  18
+inf.shoes.me	Melanie is a woman from the US. Melanie has a colleague, Amber. This morning, at the subway, Amber said to me that Melanie owns ___ pairs of shoesXXX 12 XXX  18
+
+inf.class.everyone	Erin is a first grade student in primary school. Erin has an uncle, Josh. This morning at the office, Josh stood up and said to everyone that there are ___ children in Erin's classXXX 23 XXX 44
+inf.class.me	Erin is a first grade student in primary school. Erin has an uncle, Josh. This morning at the office, Josh said to me that there are ___ children in Erin's classXXX 23 XXX 44
+
+inf.hair.everyone	Betty is a woman from the US. Betty works at an office with David. Tonight at the restaurant, David stood up and said to everyone that Betty washed her hair ___ times last monthXXX 18 XXX 29
+inf.hair.me	Betty is a woman from the US. Betty works at an office with David. Tonight at the restaurant, David said to me that Betty washed her hair ___ times last monthXXX 18 XXX 29
+
+inf.friends.everyone	Lelia is a woman from the US. Lelia lives around the corner from Brad. Tonight at our family dinner, Brandon stood up and said to everyone that Lelia has ___ friendsXXX 9 XXX 13
+inf.friends.me	Lelia is a woman from the US. Lelia lives around the corner from Brad. Tonight at our family dinner, Brandon said to me that Lelia has ___ friendsXXX 9 XXX 13
+
+inf.cook.everyone	Tony is a man from the US. Nick has a sister, Emily. This afternoon at our pottery class, Emily stood up and said to everyone that Tony cooked ___ meals at home last monthXXX 36 XXX 101
+inf.cook.me	Tony is a man from the US. Nick has a sister, Emily. This afternoon at our pottery class, Emily said to me that Tony cooked ___ meals at home last monthXXX 36 XXX 101
+
+inf.tshirts.everyone	Liam is a man from the US. Liam lives down the street from Rebecca. Last week at the conference, Rebecca stood up and said to everyone that Liam has __ T-shirtsXXX 13 XXX 21
+inf.tshirts.me	Liam is a man from the US. Liam lives down the street from Rebecca. Last week at the conference, Rebecca said to me that Liam has __ T-shirtsXXX 13 XXX 21
+
+inf.coffee.everyone	Andy is a man from the US. Andy has an aunt, Katherine. This afternoon at the museum, Katherine stood up and said to everyone that Andy drinks __ cups of coffee per dayXXX 2 XXX 3
+inf.coffee.me	Andy is a man from the US. Andy has an aunt, Katherine. This afternoon at the museum, Katherine said to me that Andy drinks __ cups of coffee per dayXXX 2 XXX 3
+
+inf.calls.everyone	Lisa is a woman from the US. Lisa has a stepmother, Mona. Today at the post office, Mona stood up and said to everyone that Lisa made __ phone calls last weekXXX 17 XXX 26
+inf.calls.me	Lisa is a woman from the US. Lisa has a stepmother, Mona. Today at the post office, Mona said to me that Lisa made __ phone calls last weekXXX 17 XXX 26
+
+inf.restaurants.everyone	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Last week at our choir rehearsal, Eric stood up and said to everyone that Sarah went to eat out in a restaurant ___ times last yearXXX 24 XXX 49
+inf.restaurants.me	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Last week at our choir rehearsal, Eric said to me that Sarah went to eat out in a restaurant ___ times last yearXXX 24 XXX 49
+
+inf.dog.everyone	Hugh is a man from the US. Hugh has a neighbor, Jenn. Just now at the store, Jenn stood up and said to everyone that Hugh walked his dog ___ times last weekXXX 9 XXX 13
+inf.dog.me	Hugh is a man from the US. Hugh has a neighbor, Jenn. Just now at the store, Jenn said to me that Hugh walked his dog ___ times last weekXXX 9 XXX 13
+
+inf.books.everyone	Nathalie is a woman from the US. Nathalie often has dinner with Alice. A few days ago at the bus, Alice stood up and said to everyone that Nathalie read ___ books last yearXXX 7 XXX 11
+inf.books.me	Nathalie is a woman from the US. Nathalie often has dinner with Alice. A few days ago at the bus, Alice said to me that Nathalie read ___ books last yearXXX 7 XXX 11
+
+inf.concert.everyone	Zach is a man from the US. Zach has a brother, Jim. A few days ago at work, Jim stood up and said to everyone that Zach went to ___ concerts last yearXXX 3 XXX 5
+inf.concert.me	Zach is a man from the US. Zach has a brother, Jim. A few days ago at work, Jim said to me that Zach went to ___ concerts last yearXXX 3 XXX 5
+
+inf.cousin.everyone	Jess is a woman from the US. Jess takes sewing classes with Anna. On Tuesday at the market, Anna stood up and said to everyone that Jess has ___ cousinsXXX 6 XXX 9
+inf.cousin.me	Jess is a woman from the US. Jess takes sewing classes with Anna. On Tuesday at the market, Anna said to me that Jess has ___ cousinsXXX 6 XXX 9
+
+inf.plane.everyone	Gary is a man from the US. Gary has a cousin, Alexander. On Tuesday at the baseball game, Alexander stood up and said to everyone that Gary was on ___ flights last yearXXX 2 XXX 4
+inf.plane.me	Gary is a man from the US. Gary has a cousin, Alexander. On Tuesday at the baseball game, Alexander said to me that Gary was on ___ flights last yearXXX 2 XXX 4
+
+inf.birthday.everyone	Samantha is a 14-year-old girl from the US. Samantha has an aunt, Caroline. On Wednesday at the library, Caroline stood up and said to everyone that Samantha attended ___ birthday parties last yearXXX 5 XXX 8
+inf.birthday.me	Samantha is a 14-year-old girl from the US. Samantha has an aunt, Caroline. On Wednesday at the library, Caroline said to me that Samantha attended ___ birthday parties last yearXXX 5 XXX 8
+
+inf.workout.everyone	Jennifer is a woman from the US. Jennifer has a sister, Holly. On Wednesday at the cafe, Holly stood up and said to everyone that Jennifer worked out ___ times last monthXXX 11 XXX 16
+inf.workout.me	Jennifer is a woman from the US. Jennifer has a sister, Holly. On Wednesday at the cafe, Holly said to me that Jennifer worked out ___ times last monthXXX 11 XXX 16
+
+inf.phone.everyone	Jill is a woman from the US. Jill has a best friend, Kevin. A few hours ago at our work meeting, Kevin stood up and said to everyone that Jill spent ___ hours on her phone last weekXXX 15 XXX 24
+inf.phone.me	Jill is a woman from the US. Jill has a best friend, Kevin. A few hours ago at our work meeting, Kevin said to me that Jill spent ___ hours on her phone last weekXXX 15 XXX 24
+
+inf.takeout.everyone	Ralph is a man from the US. Ralph has an uncle, Harry. A few hours ago at the fair, Harry stood up and said to everyone that Ralph ordered take-out ___ times last monthXXX 7 XXX 11
+inf.takeout.me	Ralph is a man from the US. Ralph has an uncle, Harry. A few hours ago at the fair, Harry said to me that Ralph ordered take-out ___ times last monthXXX 7 XXX 11
+
+inf.keys.everyone	Brendan is a man from the US. Brendan has a gym buddy, Ryan. Just now on the street, Ryan stood up and said to everyone that Brendan has ___ keys on his keychainXXX 5 XXX 7
+inf.keys.me	Brendan is a man from the US. Brendan has a gym buddy, Ryan. Just now on the street, Ryan said to me that Brendan has ___ keys on his keychainXXX 5 XXX 7
+
+inf.candy.everyone	Scott is a 12-year-old from the US. Scott has a classmate, Matt. Today at the playground, Matt stood up and said to everyone that Scott ate ___ candy bars last weekXXX 9 XXX 14
+inf.candy.me	Scott is a 12-year-old from the US. Scott has a classmate, Matt. Today at the playground, Matt said to me that Scott ate ___ candy bars last weekXXX 9 XXX 14
+
+inf.football.everyone	Kyle is a teenager from the US. Kyle has a friend, Wade. A few minutes ago at school, Wade stood up and said to everyone that Kyle had football practice ___ times last monthXXX 10 XXX 15
+inf.football.me	Kyle is a teenager from the US. Kyle has a friend, Wade. A few minutes ago at school, Wade said to me that Kyle had football practice ___ times last monthXXX 10 XXX 15
+
+inf.orderonline.everyone	Robert is a man from the US. Robert has a co-worker, Margaret. About a week ago at the cafeteria, Margaret stood up and said to everyone that Robert ordered something online ___ times last yearXXX 24 XXX 78
+inf.orderonline.me	Robert is a man from the US. Robert has a co-worker, Margaret. About a week ago at the cafeteria, Margaret said to me that Robert ordered something online ___ times last yearXXX 24 XXX 78
+
+inf.cards.everyone	Wanda is a woman from the US. Wanda carpools with Adam. Last Saturday at our drama group, Adam stood up and said to everyone that Wanda has ___ cards in her walletXXX 6 XXX 8
+inf.cards.me	Wanda is a woman from the US. Wanda carpools with Adam. Last Saturday at our drama group, Adam said to me that Wanda has ___ cards in her walletXXX 6 XXX 8
+
+
+inf.car.everyone	Jeff is a man from the US. Jeff lives across the street from Amy. A few minutes ago at a work dinner, Amy stood up and said to everyone that Jeff spent ___ hours in his car last weekXXX 11 XXX 16
+inf.car.me	Jeff is a man from the US. Jeff lives across the street from Amy. A few minutes ago at a work dinner, Amy said to me that Jeff spent ___ hours in his car last weekXXX 11 XXX 16
+
+inf.plants.everyone	Pauline is a woman from the US. Pauline is in a reading group with Jack. Last Saturday the park, Jack stood up and said to everyone that Pauline has ___ house plantsXXX 4 XXX 7
+inf.plants.me	Pauline is a woman from the US. Pauline is in a reading group with Jack. Last Saturday the park, Jack said to me that Pauline has ___ house plantsXXX 4 XXX 7
+
+inf.laundry.everyone	Peter is a man from the US. Peter shares an apartment with Jeffrey. Two days ago at our school reunion, Jeffrey stood up and said to everyone that Peter washed ___ loads of laundry last monthXXX 7 XXX 11
+inf.laundry.me	Peter is a man from the US. Peter shares an apartment with Jeffrey. Two days ago at our school reunion, Jeffrey said to me that Peter washed ___ loads of laundry last monthXXX 7 XXX 11
+
+inf.dishwasher.everyone	Lily is a woman from the US. Lily has a nephew, Bob. On Monday at the train, Bob stood up and said to everyone that Lily ran her dishwasher ___ times last monthXXX 18 XXX 27
+inf.dishwasher.me	Lily is a woman from the US. Lily has a nephew, Bob. On Monday at the train, Bob said to me that Lily ran her dishwasher ___ times last monthXXX 18 XXX 27
+
+inf.vacuum.everyone	Patricia is a woman from the US. Patricia lives next-door to Nora. On Monday at the square, Nora stood up and said to everyone that Patricia vacuumed ___ times last monthXXX 6 XXX 9
+inf.vacuum.me	Patricia is a woman from the US. Patricia lives next-door to Nora. On Monday at the square, Nora said to me that Patricia vacuumed ___ times last monthXXX 6 XXX 9
+
+inf.colleagues.everyone	Linda is a woman from the US. Linda plays tennis with Beth. About a week ago at the mall, Beth stood up and said to everyone that Linda has ___ colleaguesXXX 13 XXX 19
+inf.colleagues.me	Linda is a woman from the US. Linda plays tennis with Beth. About a week ago at the mall, Beth said to me that Linda has ___ colleaguesXXX 13 XXX 19
+
+inf.beer.everyone	John is a man from the the US. John lives in the same apartment building as Anton. About an hour ago at the beach, Anton stood up and said to everyone that John drank ___ beers last monthXXX 15 XXX 25
+inf.beer.me	John is a man from the the US. John lives in the same apartment building as Anton. About an hour ago at the beach, Anton said to me that John drank ___ beers last monthXXX 15 XXX 25
+
+inf.wine.everyone	Gilly is a woman from the US. Gilly has a roommate, Denise. About an hour ago at the movies, Denise stood up and said to everyone that Gilly drank ___ glasses of wine last monthXXX 8 XXX 13
+inf.wine.me	Gilly is a woman from the US. Gilly has a roommate, Denise. About an hour ago at the movies, Denise said to me that Gilly drank ___ glasses of wine last monthXXX 8 XXX 13
+
+inf.chairs.everyone	Rob and Wendy are a couple from the US. Rob and Wendy have a friend, Katie. The other day at the shop, Katie stood up and said to everyone that Rob and Wendy own ___ chairsXXX 8 XXX 12
+inf.chairs.me	Rob and Wendy are a couple from the US. Rob and Wendy have a friend, Katie. The other day at the shop, Katie, said to me that Rob and Wendy own ___ chairsXXX 8 XXX 12
+
+inf.date.everyone	Trey and Tina are a couple from the US. Trey and Tina live next door to Paul. The other day at the swimming pool, Paul stood up and said to everyone that Trey and Tina hired a babysitter ___ times last yearXXX 24 XXX 52
+inf.date.me	Trey and Tina are a couple from the US. Trey and Tina live next door to Paul. The other day at the swimming pool, Paul said to me that Trey and Tina hired a babysitter ___ times last yearXXX 24 XXX 52

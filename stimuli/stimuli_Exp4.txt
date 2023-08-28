@@ -1,0 +1,167 @@
+inf.bags.HIGH	Mary is a woman from the US. Mary lives next door to Paul. The other day at the swimming pool, Paul stood up and said to everyone that Mary owns __ purses and handbags.XXX 8 XXX 14
+inf.bags.MID	Mary is a woman from the US. Mary lives next door to Paul. The other day, Paul announced that Mary owns __ purses and handbags.XXX 8 XXX 14
+inf.bags.LOW	Mary is a woman from the US. Mary lives next door to Paul. Paul thinks that Mary owns __ purses and handbags.XXX 8 XXX 14
+
+inf.beer.HIGH	John is a man from the US.  John lives in the same apartment building as Anton. About an hour ago at the beach, Anton stood up and announced to the crowd that John drank __ beers last month.XXX 22 XXX 39
+inf.beer.MID	John is a man from the US.  John lives in the same apartment building as Anton. About an hour ago, Anton out of the blue said to me that John drank __ beers last month.XXX 22 XXX 39
+inf.beer.LOW	John is a man from the US.  John lives in the same apartment building as Anton. About an hour ago, when asked about it, Anton said that John drank __ beers last month.XXX 22 XXX 39
+
+inf.books.HIGH	Charlotte is a woman from the US. Charlotte has a sister, Emily. This afternoon at our pottery class, Emily stood up and said to everyone that Charlotte has __ books at home.XXX 24 XXX 49
+inf.books.MID	Charlotte is a woman from the US. Charlotte has a sister, Emily. This afternoon, Emily announced that Charlotte has __ books at home.XXX 24 XXX 49
+inf.books.LOW	Charlotte is a woman from the US. Charlotte has a sister, Emily. Emily thinks that Charlotte has __ books at home.XXX 24 XXX 49
+
+inf.burger.HIGH	Joseph is a man from the US.  Joseph has a girlfriend, Sue. Yesterday at the local bar, Sue stood up and announced to the crowd that Joseph ate __ burgers last month.XXX 8 XXX 13
+inf.burger.MID	Joseph is a man from the US.  Joseph has a girlfriend, Sue. Yesterday Sue announced that Joseph ate __ burgers last month.XXX 8 XXX 13
+inf.burger.LOW	Joseph is a man from the US.  Joseph has a girlfriend, Sue. Yesterday, when asked about it, Sue said that Joseph ate __ burgers last month.XXX 8 XXX 13
+
+inf.candy.HIGH	Scott is a 12-year-old boy from the US.  Scott has a classmate, Matt. Today at the playground, Matt stood up and said to everyone that Scott ate __ candy bars last month.XXX 9 XXX 14
+inf.candy.MID	Scott is a 12-year-old boy from the US.  Scott has a classmate, Matt. Today Matt announced that Scott ate __ candy bars last month.XXX 9 XXX 14
+inf.candy.LOW	Scott is a 12-year-old boy from the US.  Scott has a classmate, Matt. Matt thinks that Scott ate __ candy bars last month.XXX 9 XXX 14
+
+inf.cards.HIGH	Wanda is a woman from the US. Wanda carpools with Adam. Last Saturday at our drama group, Adam stood up and announced to the crowd that Wanda has __ cards in her wallet.XXX 4 XXX 6
+inf.cards.MID	Wanda is a woman from the US. Wanda carpools with Adam. Last Saturday, Adam out of the blue said to me that Wanda has __ cards in her wallet.XXX 4 XXX 6
+inf.cards.LOW	Wanda is a woman from the US. Wanda carpools with Adam. Last Saturday, when asked about it, Adam said that Wanda has __ cards in her wallet.XXX 4 XXX 6
+
+inf.cars.HIGH	Rose is a 60-year-old woman from the US.  Rose lives around the corner from Brad. Tonight at our family dinner, Brandon stood up and said to everyone that Rose has owned __ cars.XXX 4 XXX 7
+inf.cars.MID	Rose is a 60-year-old woman from the US.  Rose lives around the corner from Brad. Tonight Brandon announced that Rose has owned __ cars.XXX 4 XXX 7
+inf.cars.LOW	Rose is a 60-year-old woman from the US.  Rose lives around the corner from Brad. Tonight, when asked about it, Brandon said that Rose has owned __ cars.XXX 4 XXX 7
+
+inf.chairs.HIGH	Rob and Wendy are a couple from the US. Rob and Wendy have a friend, Katie. The other day at the shop, Katie stood up and announced to the crowd that Rob and Wendy own __ chairs.XXX 7 XXX 11
+inf.chairs.MID	Rob and Wendy are a couple from the US. Rob and Wendy have a friend, Katie. The other day, Katie out of the blue said to me that Rob and Wendy own __ chairs.XXX 7 XXX 11
+inf.chairs.LOW	Rob and Wendy are a couple from the US. Rob and Wendy have a friend, Katie. Katie thinks that Rob and Wendy own __ chairs.XXX 7 XXX 11
+
+inf.class.HIGH	Erin is a first grade student in primary school.  Erin has an uncle, Josh. This morning at the office, Josh stood up and said to everyone that there are __ children in Erin's class.XXX 22 XXX 26
+inf.class.MID	Erin is a first grade student in primary school.  Erin has an uncle, Josh. This morning, Josh announced that there are __ children in Erin's class.XXX 22 XXX 26
+inf.class.LOW	Erin is a first grade student in primary school.  Erin has an uncle, Josh. This morning, when asked about it, Josh said that there are __ children in Erin's class.XXX 22 XXX 26
+
+inf.coffee.HIGH	Andy is a man from the US.  Andy has an aunt, Katherine. This afternoon at the museum, Katherine stood up and announced to the crowd that Andy drinks __ cups of coffee per day.XXX 3 XXX 4
+inf.coffee.MID	Andy is a man from the US.  Andy has an aunt, Katherine. This afternoon, Katherine announced that Andy drinks __ cups of coffee per day.XXX 3 XXX 4
+inf.coffee.LOW	Andy is a man from the US.  Andy has an aunt, Katherine. Katherine thinks that Andy drinks __ cups of coffee per day.XXX 3 XXX 4
+
+inf.coffeecups.HIGH	Gary is a man from the US.  Gary often has dinner with Alice. A few days ago at the bus, Alice stood up and said to everyone that Gary owns __ coffee cups.XXX 6 XXX 9
+inf.coffeecups.MID	Gary is a man from the US.  Gary often has dinner with Alice. A few days ago, Alice announced that Gary owns __ coffee cups.XXX 6 XXX 9
+inf.coffeecups.LOW	Gary is a man from the US.  Gary often has dinner with Alice. A few days ago, when asked about it, Alice said that Gary owns __ coffee cups.XXX 6 XXX 9
+
+inf.colleagues.HIGH	Linda is a woman from the US. Linda plays tennis with Beth. About a week ago at the mall, Beth stood up and announced to the crowd that Linda has __ colleagues.XXX 13 XXX 23
+inf.colleagues.MID	Linda is a woman from the US. Linda plays tennis with Beth. About a week ago, Beth out of the blue said to me that Linda has __ colleagues.XXX 13 XXX 23
+inf.colleagues.LOW	Linda is a woman from the US. Linda plays tennis with Beth. About a week ago, when asked about it, Beth said that Linda has __ colleagues.XXX 13 XXX 23
+
+inf.cousin.HIGH	Jess is a woman from the US.  Jess takes sewing classes with Anna. On Tuesday at the market, Anna stood up and said to everyone that Jess has __ cousins.XXX 6 XXX 11
+inf.cousin.MID	Jess is a woman from the US.  Jess takes sewing classes with Anna. On Tuesday, Anna announced that Jess has __ cousins.XXX 6 XXX 11
+inf.cousin.LOW	Jess is a woman from the US.  Jess takes sewing classes with Anna. Anna thinks that Jess has __ cousins.XXX 6 XXX 11
+
+inf.doctor.HIGH	Sylvie is a woman from the US. Sylvie has an acquaintance, Eric. Last week at our choir rehearsal, Eric stood up and announced to the crowd that Sylvie visits a doctor __ times a year.XXX 3 XXX 6
+inf.doctor.MID	Sylvie is a woman from the US. Sylvie has an acquaintance, Eric. Last week, Eric out of the blue said to me that Sylvie visits a doctor __ times a year.XXX 3 XXX 6
+inf.doctor.LOW	Sylvie is a woman from the US. Sylvie has an acquaintance, Eric. Last week, when asked about it, Eric said that Sylvie visits a doctor __ times a year.XXX 3 XXX 6
+
+inf.dog.HIGH	Hugh is a man from the US. Hugh has a neighbor, Jenn. Just now at the store, Jenn stood up and said to everyone that Hugh walked his dog __ times last week.XXX 7 XXX 9
+inf.dog.MID	Hugh is a man from the US. Hugh has a neighbor, Jenn. Just now Jenn announced that Hugh walked his dog __ times last week.XXX 7 XXX 9
+inf.dog.LOW	Hugh is a man from the US. Hugh has a neighbor, Jenn. Jenn thinks that Hugh walked his dog __ times last week.XXX 7 XXX 9
+
+inf.earrings.HIGH	Rebecca is a woman from the US. Rebecca has a stepmother, Mona. Today at the post office, Mona stood up and announced to the crowd that Rebecca owns __ pairs of earrings.XXX 13 XXX 23
+inf.earrings.MID	Rebecca is a woman from the US. Rebecca has a stepmother, Mona. Today Mona announced that Rebecca owns __ pairs of earrings.XXX 13 XXX 23
+inf.earrings.LOW	Rebecca is a woman from the US. Rebecca has a stepmother, Mona. Today, when asked about it, Mona said that Rebecca owns __ pairs of earrings.XXX 13 XXX 23
+
+inf.email.HIGH	Sidney is a man from the US. Sidney has a brother, Jim. A few days ago at work, Jim stood up and said to everyone that Sidney receives __ emails each day.XXX 17 XXX 32
+inf.email.MID	Sidney is a man from the US. Sidney has a brother, Jim. A few days ago, Jim announced that Sidney receives __ emails each day.XXX 17 XXX 32
+inf.email.LOW	Sidney is a man from the US. Sidney has a brother, Jim. A few days ago, when asked about it, Jim said that Sidney receives __ emails each day.XXX 17 XXX 32
+
+inf.firstdate.HIGH	George is a single 30-year-old man from the US. George has a cousin, Gregory. On Tuesday at the baseball game, Gregory stood up and announced to the crowd that George has been on __ first dates in his life.XXX 15 XXX 32
+inf.firstdate.MID	George is a single 30-year-old man from the US. George has a cousin, Gregory. On Tuesday, Gregory out of the blue said to me that George has been on __ first dates in his life.XXX 15 XXX 32
+inf.firstdate.LOW	George is a single 30-year-old man from the US. George has a cousin, Gregory. Gregory thinks that George has been on __ first dates in his life.XXX 15 XXX 32
+
+inf.grandkids.HIGH	Noah and Ava are an 80-year-old couple from the US. Noah and Ava live across the street from Amy. A few minutes ago at a work dinner, Amy stood up and said to everyone that Noah and Ava have __ grandchildren.XXX 8 XXX 13
+inf.grandkids.MID	Noah and Ava are an 80-year-old couple from the US. Noah and Ava live across the street from Amy. A few minutes ago, Amy announced that Noah and Ava have __ grandchildren.XXX 8 XXX 13
+inf.grandkids.LOW	Noah and Ava are an 80-year-old couple from the US. Noah and Ava live across the street from Amy. A few minutes ago, when asked about it, Amy said that Noah and Ava have __ grandchildren.XXX 8 XXX 13
+
+inf.hair.HIGH	Betty is a woman from the US. Betty works at an office with David. Tonight at the restaurant, David stood up and announced to the crowd that Betty washed her hair __ times last month.XXX 16 XXX 24
+inf.hair.MID	Betty is a woman from the US. Betty works at an office with David. Tonight David out of the blue said to me that Betty washed her hair __ times last month.XXX 16 XXX 24
+inf.hair.LOW	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair __ times last month.XXX 16 XXX 24
+
+inf.keys.HIGH	Brendan is a man from the US. Brendan has a gym buddy, Ryan. Just now on the street, Ryan stood up and said to everyone that Brendan has __ keys on his key chain.XXX 6 XXX 9
+inf.keys.MID	Brendan is a man from the US. Brendan has a gym buddy, Ryan. Just now Ryan out of the blue said to me that Brendan has __ keys on his key chain.XXX 6 XXX 9
+inf.keys.LOW	Brendan is a man from the US. Brendan has a gym buddy, Ryan. Just now, Ryan when asked about it, Ryan said that Brendan has __ keys on his key chain.XXX 6 XXX 9
+
+inf.lamps.HIGH	Henry is a man from the US. Henry has an aunt, Caroline. On Wednesday at the library, Caroline stood up and announced to the crowd that Henry owns __ lamps.XXX 4 XXX 6
+inf.lamps.MID	Henry is a man from the US. Henry has an aunt, Caroline. On Wednesday, Caroline announced that Henry owns __ lamps.XXX 4 XXX 6
+inf.lamps.LOW	Henry is a man from the US. Henry has an aunt, Caroline. Caroline thinks that Henry owns __ lamps.XXX 4 XXX 6
+
+inf.laundry.HIGH	Peter is a man from the US. Peter shares an apartment with Jeffrey. Two days ago at our school reunion, Jeffrey stood up and said to everyone that Peter washed __ loads of laundry last month.XXX 6 XXX 9
+inf.laundry.MID	Peter is a man from the US. Peter shares an apartment with Jeffrey. Two days ago, Jeffrey out of the blue said to me that Peter washed __ loads of laundry last month.XXX 6 XXX 9
+inf.laundry.LOW	Peter is a man from the US. Peter shares an apartment with Jeffrey. Jeffrey thinks that Peter washed __ loads of laundry last month.XXX 6 XXX 9
+
+inf.meetings.HIGH	Caroline is an employee at a US company.  Caroline has a sister, Holly. On Wednesday at the cafe, Holly stood up and announced to the crowd that Caroline had __ meetings last week.XXX 4 XXX 6
+inf.meetings.MID	Caroline is an employee at a US company.  Caroline has a sister, Holly. On Wednesday, Holly out of the blue said to me that Caroline had __ meetings last week.XXX 4 XXX 6
+inf.meetings.LOW	Caroline is an employee at a US company.  Caroline has a sister, Holly. On Wednesday, when asked about it, Holly said that Caroline had __ meetings last week.XXX 4 XXX 6
+
+inf.movie.HIGH	Nick is a man from the US.  Nick went to school with Stephanie. Yesterday at my party, Stephanie stood up and said to everyone that Nick saw __ movies last year.XXX 23 XXX 45
+inf.movie.MID	Nick is a man from the US.  Nick went to school with Stephanie. Yesterday Stephanie announced that Nick saw __ movies last year.XXX 23 XXX 45
+inf.movie.LOW	Nick is a man from the US.  Nick went to school with Stephanie. Stephanie thinks that Nick saw __ movies last year.XXX 23 XXX 45
+
+inf.orderonline.HIGH	Robert is a man from the US. Robert has a co-worker, Margaret. About a week ago at the cafeteria, Margaret stood up and announced to the crowd that Robert ordered something online __ times last year.XXX 29 XXX 63
+inf.orderonline.MID	Robert is a man from the US. Robert has a co-worker, Margaret. About a week ago, Margaret out of the blue said to me that Robert ordered something online __ times last year.XXX 29 XXX 63
+inf.orderonline.LOW	Robert is a man from the US. Robert has a co-worker, Margaret. About a week ago, when asked about it, Margaret said that Robert ordered something online __ times last year.XXX 29 XXX 63
+
+inf.pets.HIGH	Jasper is a 70-year-old man from the US.  Jasper has a nephew, Bob. On Monday at the train, Bob stood up and said to everyone that Jasper has owned __ pets in his life.XXX 7 XXX 12
+inf.pets.MID	Jasper is a 70-year-old man from the US.  Jasper has a nephew, Bob. On Monday, Bob out of the blue said to me that Jasper has owned __ pets in his life.XXX 7 XXX 12
+inf.pets.LOW	Jasper is a 70-year-old man from the US.  Jasper has a nephew, Bob. On Monday, when asked about it, Bob said that Jasper has owned __ pets in his life.XXX 7 XXX 12
+
+inf.pilows.HIGH	Paul and Jacky are a couple from the US.  Paul and Jacky live across the hall from Steve.  Last week at the barbecue, Steve stood up and announced to the crowd and Jacky own __ throw pillows.XXX 6 XXX 9
+inf.pilows.MID	Paul and Jacky are a couple from the US.  Paul and Jacky live across the hall from Steve.  Last week, Steve announced that Paul and Jacky own __ throw pillows.XXX 6 XXX 9
+inf.pilows.LOW	Paul and Jacky are a couple from the US.  Paul and Jacky live across the hall from Steve.  Steve thinks that Paul and Jacky own __ throw pillows.XXX 6 XXX 9
+
+inf.plants.HIGH	Pauline is a woman from the US. Pauline is in a reading group with Jack. Last Saturday the park, Jack stood up and said to everyone that Pauline has __ house plants.XXX 6 XXX 11
+inf.plants.MID	Pauline is a woman from the US. Pauline is in a reading group with Jack. Last Saturday, Jack out of the blue said to me that Pauline has __ house plants.XXX 6 XXX 11
+inf.plants.LOW	Pauline is a woman from the US. Pauline is in a reading group with Jack. Jack thinks that Pauline has __ house plants.XXX 6 XXX 11
+
+inf.sandwich.HIGH	Ann is a woman from the US.  Ann has a house cleaner Maya.  Last week at the yard sale, Maya stood up and announced to the crowd that Ann eats __ sandwiches in a week.XXX 4 XXX 7
+inf.sandwich.MID	Ann is a woman from the US.  Ann has a house cleaner Maya.  Last week, Maya out of the blue said to me that Ann eats __ sandwiches in a week.XXX 4 XXX 7
+inf.sandwich.LOW	Ann is a woman from the US.  Ann has a house cleaner Maya.  Maya thinks that Ann eats __ sandwiches in a week.XXX 4 XXX 7
+
+inf.shoes.HIGH	Melanie is a woman from the US. Melanie has a colleague, Amber. This morning at the subway, Amber stood up and said to everyone that Melanie owns __ pairs of shoes.XXX 16 XXX 28
+inf.shoes.MID	Melanie is a woman from the US. Melanie has a colleague, Amber. This morning, Amber announced that Melanie owns __ pairs of shoes.XXX 16 XXX 28
+inf.shoes.LOW	Melanie is a woman from the US. Melanie has a colleague, Amber. This morning, when asked about it, Amber said that Melanie owns __ pairs of shoes.XXX 16 XXX 28
+
+inf.smartphones.HIGH	Olivia is a 20-year-old woman from the US.  Olivia has a housemate, Michael.  Yesterday evening at the pub, Michael stood up and announced to the crowd that Olivia has had __ smartphones in her life.XXX 4 XXX 6
+inf.smartphones.MID	Olivia is a 20-year-old woman from the US.  Olivia has a housemate, Michael.  Yesterday evening, Michael out of the blue said to me that Olivia has had __ smartphones in her life.XXX 4 XXX 6
+inf.smartphones.LOW	Olivia is a 20-year-old woman from the US.  Olivia has a housemate, Michael.  Yesterday evening, when asked about it, Michael said that Olivia has had __ smartphones in her life.XXX 4 XXX 6
+
+inf.speeding.HIGH	Ryan is a 50-year-old man from the US.  Ryan has a golf buddy, Chris.  This morning at the clubhouse, Chris stood up and said to everyone that Ryan has received a speeding ticket __ times in his life.XXX 7 XXX 16
+inf.speeding.MID	Ryan is a 50-year-old man from the US.  Ryan has a golf buddy, Chris.  This morning, Chris out of the blue said to me that Ryan has received a speeding ticket __ times in his life.XXX 7 XXX 16
+inf.speeding.LOW	Ryan is a 50-year-old man from the US.  Ryan has a golf buddy, Chris.  Chris thinks that Ryan has received a speeding ticket __ times in his life.XXX 7 XXX 16
+
+inf.states.HIGH	Samantha is a woman from the US. Samantha works in the same company as Ronny.  On Saturday at the company picnic, Ronny stood up and announced to the crowd that Samantha has visited __ states.XXX 8 XXX 14
+inf.states.MID	Samantha is a woman from the US. Samantha works in the same company as Ronny.  On Saturday, Ronny announced that Samantha has visited __ states.XXX 8 XXX 14
+inf.states.LOW	Samantha is a woman from the US. Samantha works in the same company as Ronny.  On Saturday, when asked about it, Ronny said that Samantha has visited __ states.XXX 8 XXX 14
+
+inf.stuffed.HIGH	James is a 5-year-old child from the US. James has a friend, Wade. A few minutes ago at school, Wade stood up and said to everyone that James has __ stuffed animals.XXX 9 XXX 17
+inf.stuffed.MID	James is a 5-year-old child from the US. James has a friend, Wade. A few minutes ago, Wade out of the blue said to me that James has __ stuffed animals.XXX 9 XXX 17
+inf.stuffed.LOW	James is a 5-year-old child from the US. James has a friend, Wade. Wade thinks that James has __ stuffed animals.XXX 9 XXX 17
+
+inf.takeout.HIGH	Ralph is a man from the US. Ralph has an uncle, Harry. A few hours ago at the fair, Harry stood up and announced to the crowd that Ralph ordered take-out __ times last month.XXX 11 XXX 18
+inf.takeout.MID	Ralph is a man from the US. Ralph has an uncle, Harry. A few hours ago, Harry out of the blue said to me that Ralph ordered take-out __ times last month.XXX 11 XXX 18
+inf.takeout.LOW	Ralph is a man from the US. Ralph has an uncle, Harry. Harry thinks that Ralph ordered take-out __ times last month.XXX 11 XXX 18
+
+inf.tshirts.HIGH	Liam is a man from the US.  Liam lives down the street from Rebecca. Last week at the conference, Rebecca stood up and said to everyone that Liam has __ T-shirts.XXX 18 XXX 28
+inf.tshirts.MID	Liam is a man from the US.  Liam lives down the street from Rebecca. Last week, Rebecca announced that Liam has __ T-shirts.XXX 18 XXX 28
+inf.tshirts.LOW	Liam is a man from the US.  Liam lives down the street from Rebecca. Last week, when asked about it, Rebecca said that Liam has __ T-shirts.XXX 18 XXX 28
+
+inf.vacuum.HIGH	Patricia is a woman from the US. Patricia lives next-door to Nora. On Monday at the square, Nora stood up and announced to the crowd that Patricia vacuumed __ times last month.XXX 6 XXX 11
+inf.vacuum.MID	Patricia is a woman from the US. Patricia lives next-door to Nora. On Monday, Nora out of the blue said to me that Patricia vacuumed __ times last month.XXX 6 XXX 11
+inf.vacuum.LOW	Patricia is a woman from the US. Patricia lives next-door to Nora. Nora thinks that Patricia vacuumed __ times last month.XXX 6 XXX 11
+
+inf.videogames.HIGH	Zach is a man from the US. Zach has a best friend, Kevin. A few hours ago at our work meeting, Kevin stood up and said to everyone that Zach played __ hours of video games last week.XXX 13 XXX 22
+inf.videogames.MID	Zach is a man from the US. Zach has a best friend, Kevin. A few hours ago, Kevin out of the blue said to me that Zach played __ hours of video games last week.XXX 13 XXX 22
+inf.videogames.LOW	Zach is a man from the US. Zach has a best friend, Kevin. A few hours ago, when asked about it, Kevin said that Zach played __ hours of video games last week.XXX 13 XXX 22
+
+inf.wakeup.HIGH	Alexander is a 1-year-old baby from the US.  Alexander has a godmother Liane.  This weekend at the gymboree, Liane stood up and announced to the crowd that Alexander wakes up __ times a night.XXX 3 XXX 4
+inf.wakeup.MID	Alexander is a 1-year-old baby from the US.  Alexander has a godmother Liane.  This weekend, Liane announced that Alexander wakes up __ times a night.XXX 3 XXX 4
+inf.wakeup.LOW	Alexander is a 1-year-old baby from the US.  Alexander has a godmother Liane.  Liane thinks that Alexander wakes up __ times a night.XXX 3 XXX 4
+
+inf.windows.HIGH	Roy and Emma are a couple from the US.  Roy and Emma are in a book club with Kenny.  A few weeks ago at the pub, Kenny stood up and said to everyone that Roy and Emma have __ windows in their 2-bedroom apartment.XXX 4 XXX 8
+inf.windows.MID	Roy and Emma are a couple from the US.  Roy and Emma are in a book club with Kenny.  A few weeks ago, Kenny announced that Roy and Emma have __ windows in their 2-bedroom apartment.XXX 4 XXX 8
+inf.windows.LOW	Roy and Emma are a couple from the US.  Roy and Emma are in a book club with Kenny.  A few weeks ago, when asked about it, Kenny said that Roy and Emma have __ windows in their 2-bedroom apartment.XXX 4 XXX 8
+
+inf.wine.HIGH	Gilly is a woman from the US. Gilly has a roommate, Denise. About an hour ago at the movies, Denise stood up and announced to the crowd that Gilly drank __ glasses of wine last month.XXX 16 XXX 31
+inf.wine.MID	Gilly is a woman from the US. Gilly has a roommate, Denise. About an hour ago, Denise out of the blue said to me that Gilly drank __ glasses of wine last month.XXX 16 XXX 31
+inf.wine.LOW	Gilly is a woman from the US. Gilly has a roommate, Denise. Denise thinks that Gilly drank __ glasses of wine last month.XXX 16 XXX 31
