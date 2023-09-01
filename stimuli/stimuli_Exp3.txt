@@ -73,7 +73,6 @@ inf.orderonline.me	Robert is a man from the US. Robert has a co-worker, Margaret
 inf.cards.everyone	Wanda is a woman from the US. Wanda carpools with Adam. Last Saturday at our drama group, Adam stood up and said to everyone that Wanda has ___ cards in her walletXXX 6 XXX 8
 inf.cards.me	Wanda is a woman from the US. Wanda carpools with Adam. Last Saturday at our drama group, Adam said to me that Wanda has ___ cards in her walletXXX 6 XXX 8
 
-
 inf.car.everyone	Jeff is a man from the US. Jeff lives across the street from Amy. A few minutes ago at a work dinner, Amy stood up and said to everyone that Jeff spent ___ hours in his car last weekXXX 11 XXX 16
 inf.car.me	Jeff is a man from the US. Jeff lives across the street from Amy. A few minutes ago at a work dinner, Amy said to me that Jeff spent ___ hours in his car last weekXXX 11 XXX 16
 
