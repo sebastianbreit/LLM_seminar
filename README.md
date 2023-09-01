@@ -1,6 +1,7 @@
 # Project for the Seminar: Large Language Models: implications for linguistics, cognitive science and society
 
-We investigated pragmatic reasoning abilities of LLMs based on the research on humans by (https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00058/112494/This-Better-Be-Interesting-A-Speaker-s-Decision-to)[Rohde et al.].
+We investigated pragmatic reasoning abilities of LLMs based on the research on humans by [Rohde et al.](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00058/112494/This-Better-Be-Interesting-A-Speaker-s-Decision-to).
+
 For the report see ..
 
 The stimuli folder contains the stimuli for the different experiments.
