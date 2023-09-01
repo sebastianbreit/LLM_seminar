@@ -5,8 +5,11 @@ We investigated pragmatic reasoning abilities of LLMs based on the research on h
 For the report see ..
 
 The stimuli folder contains the stimuli for the different experiments.
+
 The data folder contains the results of the experiments with GPT 3.5.
 
-exp_1-4.ipynb contains the code for conducting the experiments by Rohde et al. with Googles T5 model and OpenAIs GPT 3.5.
-joined_experiment.ipynb contains the code for our altered version of experiment one with GPT 3.5.
-fitber_zeug.py contains ...
+**exp_1-4.ipynb** contains the code for conducting the experiments by Rohde et al. with Googles T5 model and OpenAIs GPT 3.5.
+
+**joined_experiment.ipynb** contains the code for our altered version of experiment one with GPT 3.5.
+
+**fitbert_experiment.py** contains the code of running experiment 1-4 with FitBert.
